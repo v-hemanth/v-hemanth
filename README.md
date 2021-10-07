@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Hemanth(18).
-- 👀 I’m interested in pop music, sci-fi, AI-ML and tech.
+- 👋 Hi, I’m Hemanth.
+- 👀 I’m interested in Web development, AI-ML and new tech.
 - 🌱 I’m currently learning CS in VIT 
-- 💞️ I’m looking to collaborate on any project related to dsa or data science.
+- 💞️ I’m looking to collaborate on any project related to dsa or web development.
 - 📫 How to reach me Gmail: vadarevu.hemanth@gmail.com
-                  Instagram: 0_hemanth_0
 
 <!---
 v-hemanth/v-hemanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
